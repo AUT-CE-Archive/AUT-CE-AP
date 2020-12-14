@@ -1,0 +1,1 @@
+{"Obstacle Health":100,"Bomb Damage":15,"Missile Damage":25,"Tank Health":100, "Map Type":"jungle"}
